@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ercoderrahul
-- 👀 I’m interested in FRONT-END devlopment
-- 🌱 I’m currently learning NODE.JS
-- 💞️ I’m looking to collaborate on Front-End role.
-- 📫 How to reach me -: errahulchoudhary04@gmail.com
+- 👋 Hi, I’m @ercoderrahul 👦🏻🙏
+- 👀 I’m interested in FRONT-END devlopment 💻
+- 🌱 I’m currently learning NODE.JS 👨🏻‍💻
+- 💞️ I’m looking to collaborate on Front-End role/UI-UX/Node.Js. 🎨👨🏻‍💻
+- 📫 How to reach me -: errahulchoudhary04@gmail.com 📩
 
 <!---
 ercoderrahul/ercoderrahul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
